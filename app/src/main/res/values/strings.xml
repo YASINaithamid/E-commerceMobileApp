@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ProjetS4</string>
+    <string name="find_discover_choose">Find, Discover, Choose</string>
+    <string name="alredy_have_an_account_login">Alredy have an account ? Login</string>
+    <string name="join_now">Join Now</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="password1">Password</string>
+    <string name="phone_number1">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
